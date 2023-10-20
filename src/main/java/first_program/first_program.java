@@ -6,5 +6,6 @@ public class first_program {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("Test 1");
     }
 }
